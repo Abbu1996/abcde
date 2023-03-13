@@ -26,7 +26,7 @@ pipeline {
 	   branch "master"
 	   	   }
           steps {
-               sh "mvn tomcat7:deploy"
+               sh "mvn tomcat8:deploy"
                echo "Deploying Code"
                
           }
