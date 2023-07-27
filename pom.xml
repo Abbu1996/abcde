@@ -30,8 +30,8 @@
 				<configuration>
 				<path>/${project.artifactId}##${project.version}</path>
 				<url>http://3.108.227.237:8080/manager/text</url>
-					<username>admin</username>
-					<password>adminadmin</password>
+					<username>abbas</username>
+					<password>abbas@7073</password>
 					<update>true</update>
 				</configuration>
 			</plugin>
